@@ -100,7 +100,7 @@
                 name: 'Osmania Biscuit (3 Pcs)',
                 price: '₹50',
                 category: 'snacks',
-                description: 'Spicy potato fritter in a bun with chutneys.',
+                description: 'Crispy, buttery biscuits with a hint of cardamom, perfect with tea.',
                 image: 'images/Menu5.png'
             }
         ];
